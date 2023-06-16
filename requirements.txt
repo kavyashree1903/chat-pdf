@@ -1,0 +1,8 @@
+openai
+beautifulsoup4
+Pillow
+pandas
+langchain
+PyPDF2
+streamlit
+streamlit_chat
