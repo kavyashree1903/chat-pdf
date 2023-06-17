@@ -22,8 +22,8 @@ from streamlit_chat import message
 
 
 # Set up OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
-openai.api_key = "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"
+os.environ["OPENAI_API_KEY"] = "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"
+openai.api_key = "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"
 
 
 def func(filename):

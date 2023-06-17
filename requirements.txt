@@ -6,3 +6,4 @@ langchain
 PyPDF2
 streamlit
 streamlit_chat
+tiktoken
